@@ -1,0 +1,5 @@
+echo "start config"
+gain 3
+set synth.default-soundfont /usr/share/sounds/sf2/FluidR3_GM.sf2
+select 0 1 0 0
+echo "end config"
